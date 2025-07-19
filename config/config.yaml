@@ -1,0 +1,3 @@
+dataset:
+  file_path: r"C:\Users\kau75421\LLMprojects\Restrudant_app\data\Restaurants_Train_v2.xml"
+  processed_data_path: r"C:\Users\kau75421\LLMprojects\Restrudant_app\data\restaurant_absa_data.csv"
