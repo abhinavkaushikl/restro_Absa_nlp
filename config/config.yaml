@@ -1,3 +1,5 @@
 dataset:
   file_path: r"C:\Users\kau75421\LLMprojects\Restrudant_app\data\Restaurants_Train_v2.xml"
-  processed_data_path: r"C:\Users\kau75421\LLMprojects\Restrudant_app\data\restaurant_absa_data.csv"
+  modelfeeder: r'C:\Users\kau75421\LLMprojects\Restrudant_app\data\processed\absa_results.csv'
+  absa_read : r"C:\Users\kau75421\LLMprojects\Restrudant_app\data\processed\absa_results.csv"
+  sentiment_results : r"C:\Users\kau75421\LLMprojects\Restrudant_app\data\processed\sentiment_results.csv"
